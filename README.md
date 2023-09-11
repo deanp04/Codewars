@@ -1,4 +1,4 @@
-This repo is meant to help me track my Codewars progress and study other ways of solving problems.
+This repo is meant to help me track my Codewars progress and study other ways of solving problems..
 
 Codewars is an online platform in which you complete coding challenges at various difficulty levels.
 
